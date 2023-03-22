@@ -2,7 +2,7 @@
 
 Console.Write("1부터 몇 까지 출력할까요? : ");
 int n = int.Parse(Console.ReadLine());
-int a = 1;
+int a = 0;
 while (a < n)
 {
     a++;

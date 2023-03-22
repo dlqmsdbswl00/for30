@@ -8,4 +8,3 @@ for (int i = 1; i <= k; i++)
     fact *= i;
 
 Console.WriteLine("k! : {0}", fact);
-
